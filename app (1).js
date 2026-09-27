@@ -1,5 +1,4 @@
-// ⚠️ Sau khi Deploy code.gs, dán URL /exec vào đây:
-const API_URL = "https://script.google.com/macros/s/AKfycbzewDgf13SJnA9-ybO6CUio4edkjuVaVbEeBk9I4x-D5EpJedlcbKypcv3Oi1KR3oxTIA/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxgU7si33LAR_aDVsdPmEEIU4jPZ_mG92Pv7I4oKkmCOhJ4AUxci67nDSeSMvMFgwfAeA/exec";
 const ADMIN_EMAIL = 'lengocnhu1805@gmail.com';
 
 let currentUser = null;
